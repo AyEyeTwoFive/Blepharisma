@@ -1,4 +1,4 @@
-# Blepharisma
+# Blepharisma - IB Diploma Extended Essay 
 Blepharisma are single-celled organisms that have the ability to consume other members of their
 species. Those that engage in cannibalism become giants, creating a distinct polymorphism of
 two possible states- either regular dwarf or cannibalistic giant. The exact conditions in the
